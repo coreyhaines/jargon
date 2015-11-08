@@ -75,9 +75,11 @@ for(int i = 0; i < commands.count; i++) {
     // Process this command
   }
 }
-{% endhighlight %}
+```
+
 or, perhaps your language supported an index-free form
-{% highlight ruby %}
+
+```ruby
 for command in commands
   if(command.type == 'update')
     # Process this command
