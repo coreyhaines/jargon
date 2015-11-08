@@ -1,1 +1,1 @@
-I'm Corey Haines. I'm the Co-Founder and CTO at Hearken, working to enhance audience engagement in journalism. I'm also working on a book about the lambda calculus.
+I'm Corey Haines. I'm the Co-Founder and CTO at <a href="www.wearehearken.com">Hearken</a>, working to enhance audience engagement in journalism. I'm also working on a book about the lambda calculus.
